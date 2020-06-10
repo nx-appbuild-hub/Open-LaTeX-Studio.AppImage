@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="openlatexstudio.OpenLaTeXStudio.branding">
+    <module_version install_time="1525026253805" last="true" origin="installer" specification_version="1.5.0">
+        <file crc="1803052012" name="config/Modules/openlatexstudio-OpenLaTeXStudio-branding.xml"/>
+        <file crc="2374990606" name="core/locale/core_openlatexstudio.jar"/>
+        <file crc="2374656471" name="modules/locale/org-netbeans-core-windows_openlatexstudio.jar"/>
+        <file crc="1596942634" name="modules/locale/org-netbeans-core_openlatexstudio.jar"/>
+        <file crc="821778237" name="modules/openlatexstudio-OpenLaTeXStudio-branding.jar"/>
+    </module_version>
+</module>
