@@ -3,4 +3,4 @@ set -e
 
 cd ${HOME}
 
-exec  ${APPDIR}/application/bin/openlatexstudio $@
+exec  ${APPDIR}/application/bin/openlatexstudio "$@"
